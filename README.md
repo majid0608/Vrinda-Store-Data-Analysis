@@ -22,7 +22,8 @@ This project is an Excel-based data analysis.The goal of the project is to perfo
 - Developed a dynamic dashboard for presenting data visually and interactively.
   
   ## Dashboard Preview
-  ![Description of Image](vrinda store annual report .png)
+  ![Description of Image](Vrinda-Store-Data-Analysis
+/vrinda store annual report .png)
 
 
 ## Conclusion
