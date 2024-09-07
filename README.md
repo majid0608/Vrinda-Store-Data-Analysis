@@ -20,10 +20,9 @@ This project is an Excel-based data analysis.The goal of the project is to perfo
 - Gained proficiency in Excel functions, data organization, and visualization.
 - Improved the ability to analyze datasets and derive meaningful insights.
 - Developed a dynamic dashboard for presenting data visually and interactively.
-
-Yes, adding a conclusion to the README file would be a great way to summarize the project's impact and your learning experience. Here's how you can structure the conclusion:
-
----
+  
+## Dashboard Preview
+![Dashboard Screenshot]("C:\Users\KIIT\Downloads\vrinda store annual report .png")
 
 ## Conclusion
 This Excel-based data analysis project provided valuable insights into handling, analyzing, and visualizing data effectively. By utilizing Excel's powerful features like pivot tables, charts, and formulas, I was able to transform raw data into meaningful insights and create an interactive dashboard for better data interpretation. 
