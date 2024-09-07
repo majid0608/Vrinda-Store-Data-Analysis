@@ -20,9 +20,6 @@ This project is an Excel-based data analysis.The goal of the project is to perfo
 - Gained proficiency in Excel functions, data organization, and visualization.
 - Improved the ability to analyze datasets and derive meaningful insights.
 - Developed a dynamic dashboard for presenting data visually and interactively.
-  
-  ## Dashboard Preview
-![Vrinda Store Annual Report](Vrinda-Store-Data-Analysis/.png)
 
 ## Conclusion
 This Excel-based data analysis project provided valuable insights into handling, analyzing, and visualizing data effectively. By utilizing Excel's powerful features like pivot tables, charts, and formulas, I was able to transform raw data into meaningful insights and create an interactive dashboard for better data interpretation. 
